@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD-105_Connecting_Screens</string>
+    <string name="txtName">Al Jette</string>
+    <string name="txtButtonProfile">View Profile</string>
+    <string name="txtProfileInfo">Profile Info \n - Like to use my 3D Printer \n - Volunteer at CG Food Pantry \n - Volunteer w/ St Vincent dePaul \n - Class is much more work than expected</string>
+
+</resources>
